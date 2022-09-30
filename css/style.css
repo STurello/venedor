@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box
+}
+
+.btn {
+    text-transform: uppercase;
+}
+
+/* header */
+
+.header {
+    background-color: whitesmoke;
+}
+
+/* close header */
+
+/* main */
+
+
+
+/* close main */
+
+/* footer */
+
+.upper-footer {
+    background-color: gray;
+    text-transform: uppercase;
+}
+
+.lower-footer {
+    background-color: rgb(77, 77, 77);
+}
+
+.content-header {
+    text-transform: uppercase;
+}
+
+.content-text {
+    text-transform: capitalize;
+    list-style-type: square;
+}
+
+/* close footer */
